@@ -33,16 +33,21 @@ This is a collection of youtubers that teach programming. Courses that are illeg
 - [Chris Oliver]
 - [Kingsley Ijomah]
 - [Dave Jones]
+
 ### SQL MYSQL POSTGRES
 - [CalebTheVideoMaker2]
+
 ### Frontend Development
 - [Dev Tips]
 - [Mackenzie Child]
 - [ihatetomatoes]
+
 ### Ember
 - [Ryan Florence]
+
 ### Angular
 - [Programmingwithmosh]
+
 ### MEAN Stack
 - [Bossable]
 
