@@ -28,6 +28,7 @@ This is a collection of youtubers that teach programming. Courses that are illeg
 # General
 - [Derek Banas]
 - [Jake Day Williams]
+- [Mindspace]
 
 # Channels
 
@@ -90,6 +91,7 @@ This is a collection of youtubers that teach programming. Courses that are illeg
 
 
    [Corey Schafer]: <https://www.youtube.com/user/schafer5/>
+   [Mindspace]: <https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/>
    [George Mcknight]: <https://www.youtube.com/playlist?list=PLKfAG4yMwKkSTkCFX7HXG5GAN-fvGAQqY>
    [Paul Solt]: <https://www.youtube.com/user/PaulSolt/>
    [Schneems]: <https://www.youtube.com/user/schneems/>
