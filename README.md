@@ -29,6 +29,8 @@ This is a collection of youtubers that teach programming. Courses that are illeg
 - [Derek Banas]
 - [Jake Day Williams]
 - [Mindspace]
+- [codedamn]
+- [Thanxman Uk]
 
 # Channels
 
@@ -42,6 +44,7 @@ This is a collection of youtubers that teach programming. Courses that are illeg
 - [Free Code Camp]
 - [Learn Coding Tutorials]
 - [Source Decoded]
+- [Know Then]
 
 ### Php
 - [Php Academy]
@@ -65,6 +68,8 @@ This is a collection of youtubers that teach programming. Courses that are illeg
 - [Dave Jones]
 - [Dev Factor]
 - [Schneems]
+- [Ruby Thursday]
+- [Stuk.io]
 
 ### SQL MYSQL POSTGRES
 - [CalebTheVideoMaker2]
@@ -131,5 +136,11 @@ This is a collection of youtubers that teach programming. Courses that are illeg
    [Free Code Camp]: <https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/>
    [Martins Tutorials]: <https://www.youtube.com/playlist?list=PL5Dq9xKbrI3BxgI4Q7TpUkle30nhYDBNY/>
    [Learn Coding Tutorials]: <https://www.youtube.com/channel/UC8Szh5ZJeGFBWyqKyTCVPpA>
+   [Know Then]: <https://www.youtube.com/channel/UC4nNCN49Fxexd30qtbzPDkg/>
+   [Ruby Thursday]: <https://www.youtube.com/channel/UCgbzly83EZoSVjBIf9sNw5A/>
+   [codedamn]: <https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ/>
+   [Thanxman Uk]: <https://www.youtube.com/channel/UCMrnXo9l5AxkjTPDdHOWqvQ/>
+   [Stuk.io]: <https://www.youtube.com/channel/UCI7E0Jlf4CGk2z9RMsd_aVw/>
+
 
 
