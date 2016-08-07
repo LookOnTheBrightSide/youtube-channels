@@ -70,6 +70,7 @@ This is a collection of youtubers that teach programming. Courses that are illeg
 - [Schneems]
 - [Ruby Thursday]
 - [Stuk.io]
+- [Learn]
 
 ### SQL MYSQL POSTGRES
 - [CalebTheVideoMaker2]
@@ -141,6 +142,7 @@ This is a collection of youtubers that teach programming. Courses that are illeg
    [codedamn]: <https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ/>
    [Thanxman Uk]: <https://www.youtube.com/channel/UCMrnXo9l5AxkjTPDdHOWqvQ/>
    [Stuk.io]: <https://www.youtube.com/channel/UCI7E0Jlf4CGk2z9RMsd_aVw/>
+   [Learn]: <https://www.youtube.com/channel/UCHywZuBJRKBch4BcXvsRI7Q>
 
 
 
