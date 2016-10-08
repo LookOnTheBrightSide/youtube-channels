@@ -94,8 +94,10 @@ This is a collection of youtubers that teach programming. Courses that are illeg
 - [Code With Chris]
 - [Paul Solt]
 
+# CSS
+- [FWAIT]
 
-
+   [FWAIT]: <https://www.youtube.com/channel/UCBwPlFFaigg5WA-Y1Iz-HUA/>
    [Corey Schafer]: <https://www.youtube.com/user/schafer5/>
    [Mindspace]: <https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/>
    [George Mcknight]: <https://www.youtube.com/playlist?list=PLKfAG4yMwKkSTkCFX7HXG5GAN-fvGAQqY>
